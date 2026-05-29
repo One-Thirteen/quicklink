@@ -1,6 +1,6 @@
 # Quick.Link YOURLS Plugins
 
-YOURLS plugins for [Quick.Link](https://github.com/one-thirteen/quick-link-code), an iOS app that connects to a user's self-hosted YOURLS server.
+YOURLS plugins for [Quick.Link](https:/o13.link/ql-dl), an iOS app that connects to a user's self-hosted YOURLS server.
 
 These plugins add optional Quick.Link-specific API endpoints for richer analytics and campaign link workflows. They use the normal YOURLS API authentication flow, so the app can call them with the same `signature` token a user already stores for their YOURLS server.
 
